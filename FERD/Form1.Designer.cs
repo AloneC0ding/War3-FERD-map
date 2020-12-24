@@ -156,6 +156,16 @@ namespace FERD
             Blevel.TabIndex = 42;
             Blevel.Text = "B級";
             // 
+            // label67
+            // 
+            label67.AutoSize = true;
+            label67.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            label67.Location = new System.Drawing.Point(370, 269);
+            label67.Name = "label67";
+            label67.Size = new System.Drawing.Size(36, 20);
+            label67.TabIndex = 76;
+            label67.Text = "A級";
+            // 
             // Dlevel
             // 
             this.Dlevel.AutoSize = true;
@@ -1230,16 +1240,6 @@ namespace FERD
             this.label66.TabIndex = 77;
             this.label66.Text = "遠坂凜";
             // 
-            // label67
-            // 
-            label67.AutoSize = true;
-            label67.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label67.Location = new System.Drawing.Point(370, 269);
-            label67.Name = "label67";
-            label67.Size = new System.Drawing.Size(36, 20);
-            label67.TabIndex = 76;
-            label67.Text = "B級";
-            // 
             // Atimer
             // 
             this.Atimer.Enabled = true;
@@ -1249,7 +1249,7 @@ namespace FERD
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(855, 521);
+            this.ClientSize = new System.Drawing.Size(708, 534);
             this.Controls.Add(this.label34);
             this.Controls.Add(this.label35);
             this.Controls.Add(this.label36);

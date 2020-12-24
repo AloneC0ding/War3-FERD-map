@@ -8,3 +8,13 @@ C:\Users\Alone\source\repos\FERD\FERD\obj\Debug\FERD.csproj.GenerateResource.cac
 C:\Users\Alone\source\repos\FERD\FERD\obj\Debug\FERD.csproj.CoreCompileInputs.cache
 C:\Users\Alone\source\repos\FERD\FERD\obj\Debug\FERD.exe
 C:\Users\Alone\source\repos\FERD\FERD\obj\Debug\FERD.pdb
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\bin\Debug\FERD.exe.config
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\bin\Debug\FERD.exe
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\bin\Debug\FERD.pdb
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\obj\Debug\FERD.csprojAssemblyReference.cache
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\obj\Debug\FERD.Form1.resources
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\obj\Debug\FERD.Properties.Resources.resources
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\obj\Debug\FERD.csproj.GenerateResource.cache
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\obj\Debug\FERD.csproj.CoreCompileInputs.cache
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\obj\Debug\FERD.exe
+C:\Users\Alone\source\repos\War3-FERD-map\FERD\obj\Debug\FERD.pdb
